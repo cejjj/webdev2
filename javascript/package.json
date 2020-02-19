@@ -6,7 +6,8 @@
   "scripts": {
     "start-js": "javascripting",
     "verify-js": "javascripting verify",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-nodepg":"node index.js"   
   },
   "keywords": [],
   "author": "",
